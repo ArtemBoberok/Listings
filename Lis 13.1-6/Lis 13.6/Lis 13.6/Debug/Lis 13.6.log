@@ -1,0 +1,4 @@
+﻿  Lis 13.6.cpp
+X:\Сис.Прог\ПР13\Lis 13.6\Lis 13.6\Lis 13.6.cpp(20,7): error C2664: "BOOL ReadConsoleOutputCharacterW(HANDLE,LPWSTR,DWORD,COORD,LPDWORD)": невозможно преобразовать аргумент 2 из "CHAR [80]" в "LPWSTR"
+X:\Сис.Прог\ПР13\Lis 13.6\Lis 13.6\Lis 13.6.cpp(22,3): message : Типы, на которые указывают указатели, не связаны; для преобразования требуется reinterpret_cast, приведение в стиле С или приведение в стиле функции
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\consoleapi2.h(315,1): message : см. объявление "ReadConsoleOutputCharacterW"
