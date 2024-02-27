@@ -1,0 +1,4 @@
+﻿  Lis 13.7.cpp
+X:\Сис.Прог\ПР13\Lis 13.7\Lis 13.7\Lis 13.7.cpp(18,7): error C2664: "BOOL WriteConsoleOutputCharacterW(HANDLE,LPCWSTR,DWORD,COORD,LPDWORD)": невозможно преобразовать аргумент 2 из "CHAR [5]" в "LPCWSTR"
+X:\Сис.Прог\ПР13\Lis 13.7\Lis 13.7\Lis 13.7.cpp(20,3): message : Типы, на которые указывают указатели, не связаны; для преобразования требуется reinterpret_cast, приведение в стиле С или приведение в стиле функции
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\consoleapi2.h(275,1): message : см. объявление "WriteConsoleOutputCharacterW"
