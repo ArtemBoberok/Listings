@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32510.428
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Lis 19.3", "Lis 19.3\Lis 19.3.vcxproj", "{6870ECA1-6E91-4D23-8E34-8757EEF03A4E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6870ECA1-6E91-4D23-8E34-8757EEF03A4E}.Debug|x64.ActiveCfg = Debug|x64
+		{6870ECA1-6E91-4D23-8E34-8757EEF03A4E}.Debug|x64.Build.0 = Debug|x64
+		{6870ECA1-6E91-4D23-8E34-8757EEF03A4E}.Debug|x86.ActiveCfg = Debug|Win32
+		{6870ECA1-6E91-4D23-8E34-8757EEF03A4E}.Debug|x86.Build.0 = Debug|Win32
+		{6870ECA1-6E91-4D23-8E34-8757EEF03A4E}.Release|x64.ActiveCfg = Release|x64
+		{6870ECA1-6E91-4D23-8E34-8757EEF03A4E}.Release|x64.Build.0 = Release|x64
+		{6870ECA1-6E91-4D23-8E34-8757EEF03A4E}.Release|x86.ActiveCfg = Release|Win32
+		{6870ECA1-6E91-4D23-8E34-8757EEF03A4E}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A8D6717D-7E61-4A1E-8748-A8B0BD31205E}
+	EndGlobalSection
+EndGlobal
