@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33205.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Lis 21.4", "Lis 21.4\Lis 21.4.vcxproj", "{5127FB58-6194-49D2-B0DB-AE3769ECF1FD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5127FB58-6194-49D2-B0DB-AE3769ECF1FD}.Debug|x64.ActiveCfg = Debug|x64
+		{5127FB58-6194-49D2-B0DB-AE3769ECF1FD}.Debug|x64.Build.0 = Debug|x64
+		{5127FB58-6194-49D2-B0DB-AE3769ECF1FD}.Debug|x86.ActiveCfg = Debug|Win32
+		{5127FB58-6194-49D2-B0DB-AE3769ECF1FD}.Debug|x86.Build.0 = Debug|Win32
+		{5127FB58-6194-49D2-B0DB-AE3769ECF1FD}.Release|x64.ActiveCfg = Release|x64
+		{5127FB58-6194-49D2-B0DB-AE3769ECF1FD}.Release|x64.Build.0 = Release|x64
+		{5127FB58-6194-49D2-B0DB-AE3769ECF1FD}.Release|x86.ActiveCfg = Release|Win32
+		{5127FB58-6194-49D2-B0DB-AE3769ECF1FD}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {67D3FC8C-C174-4BA4-B764-F3DB1747B2D4}
+	EndGlobalSection
+EndGlobal
